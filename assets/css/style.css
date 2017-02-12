@@ -1,0 +1,122 @@
+/*   BODY   */
+
+body {
+			background: url('https://images.pexels.com/photos/2850/people-party-dancing-music.jpg?w=940&h=650&auto=compress&cs=tinysrgb');
+			background-size: cover;
+}
+
+
+/*    HEAD     */
+
+
+.head {
+	
+			border: 4px solid #5bc0de;
+			height: 550px;
+			background: url('http://www.bounceschool.com/wp-content/uploads/2014/08/handsbackground.jpg');
+			background-size: cover;
+			margin: 30px 30px 30px 30px;
+}
+
+
+/*   WRAPPER   */
+
+
+.wrapper {
+
+			margin-top: 30px;
+			margin-bottom: 30px;
+			background: rgba(255,255,255,.7);
+			border-radius: 10px;
+			padding: 15px;
+}
+
+/*   FOOTER   */
+
+#footer {
+
+			height: 100px;	
+}
+
+
+/*  START BUTTON    */
+
+
+#start {
+			margin: 0 auto;
+
+}
+
+/*   RADIO BUTTON   */
+
+.form-check-label {
+
+			margin-left: 20PX;
+}
+
+
+/*  FORM    */
+
+
+#field {
+
+			padding: 30px;
+}
+
+
+/*   STOP BUTTON   */
+
+
+#stop {
+
+			margin-top: 40px;
+
+}
+
+/*   QUESTION STYLING   */
+
+.question {
+			background: #eee;
+			padding: 10px;
+			border-radius: 4px 4px;
+}
+
+/*   COUNTER   */
+
+.countdown {
+
+			background: #fff;
+			padding: 15px;
+			border: 4px solid #5bc0de;
+			border-radius: 10px;
+			color: #5bc0de;
+			position: fixed;
+			top: 80px;
+			right: 55px;
+}
+
+/*   TIME LEFT LABEL   */
+.timeleft {
+
+			background: #fff;
+			padding: 15px;
+			border: 4px solid #5bc0de;
+			border-radius: 10px;
+			color: #5bc0de;
+	
+}
+
+/*   CLOCK LABEL   */
+
+
+#clockLabel {
+			position: fixed;
+			top: 10px;
+			right: 10px;
+			padding: 10px;
+}
+
+
+
+
+
